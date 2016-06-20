@@ -20,4 +20,8 @@ Simply execute the following:
  npm install
  ```
 
-2. gulp command which would serve an angular page on the browser
+2. Serve an angular page on the browser
+
+```
+gulp
+```
