@@ -3,6 +3,7 @@
 A simple boiler plate for Angular an angular project using Angular Material UI by default.
 
 This streamlines the workflow involving the following:
+
 1. Sass compilation
 2. JavaScript linting
 3. Uglifying
@@ -12,5 +13,11 @@ This streamlines the workflow involving the following:
 ##Running
  
 Simply execute the following:
-1. npm install to load the dependencies
+
+1. Load the dependencies
+
+ ```
+ npm install
+ ```
+
 2. gulp command which would serve an angular page on the browser
