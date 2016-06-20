@@ -22,6 +22,6 @@ Simply execute the following:
 
 2. Serve an angular page on the browser
 
-```
+ ```
  gulp
-```
+ ```
